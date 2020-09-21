@@ -1,14 +1,14 @@
 # continuum_mechanics_presentation
 A presentation on continuum mechanics I gave to a joint University of Michigan and King's College London research group. My presentation was followed by a presentation on tissue growth and remodeling by Sandra Hager.
 
-The presentation covered the following five topics:
+The presentation covers the following five topics:
 * review of linear algebra
 * kinematics
 * strain
 * stress
 * hyperelasticity
 
-This presentation also includes a lengthy appendix which covers:
+It also includes a lengthy appendix, which covers:
 * (p, q) tensors
 * additional kinematics
 * small strain tensor
