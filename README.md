@@ -1,4 +1,4 @@
-# continuum_mechanics_presentation
+# Continuum mechanics presentation
 A presentation on continuum mechanics I gave to a joint University of Michigan and King's College London research group. My presentation was followed by a presentation on tissue growth and remodeling by Sandra Hager.
 
 The presentation covers the following five topics:
