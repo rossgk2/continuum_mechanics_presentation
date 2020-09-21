@@ -8,7 +8,7 @@ The presentation covered the following five topics:
 * stress
 * hyperelasticity
 
-This presentation also includes a length appendix, which covers:
+This presentation also includes a lengthy appendix which covers:
 * (p, q) tensors
 * additional kinematics
 * small strain tensor
